@@ -1,0 +1,27 @@
+# Compa
+
+Compa is a community resilience app built by Integer LLC (Pembroke Pines, Florida) —
+helping neighborhoods prepare for, respond to, and recover from disasters, together.
+Status: coming soon. Launch updates via the waitlist.
+
+## Pages
+
+- [Home](https://compa.help/): What Compa is, how it works (Prepare / Respond / Recover),
+  founder story, waitlist signup, FAQ.
+- [For Agencies](https://compa.help/agencies.html): Positioning for FEMA-aligned emergency
+  management, CERT programs, and community organizations. Whole Community approach,
+  volunteer and CERT coordination, ground-truth community insight for the common
+  operating picture, accessibility and equity, and pilot partnerships.
+- [Waitlist](https://compa.help/waitlist.html): Join the launch waitlist. Free for residents.
+- [Contact](https://compa.help/contact.html): Contact the Compa team.
+
+## Key facts
+
+- Compa complements official emergency management; it does not replace 911, public
+  alerting, NIMS/ICS command, or agency authority.
+- Compa is not affiliated with or endorsed by FEMA or any government agency.
+- Residents: free. Agencies: pilot partnerships structured collaboratively.
+- Privacy: residents control what they share; location used only to connect nearby
+  help; personal data is never sold.
+- Accessibility is a design requirement (WCAG 2.2 AA target), plain-language first,
+  with low-bandwidth and multilingual support planned.
